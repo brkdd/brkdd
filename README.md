@@ -1,16 +1,37 @@
-### Hi there 👋
+## João Guilherme 
 
-<!--
-**brkdd/brkdd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**[PT/BR]**
+* Estou cursando Técnico em Desenvolvimento de sistemas, me adaptando e aprendendo linguagens necessárias estudando programação e outras tecnologias.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[EN/US]** 
+* I'm doing a Tech Program in System Development, getting the hang of it and picking up the languages I need by studying programming and other tech stuff.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  ## 💻Ferramentas e tecnologias | Tools and technologies
+  ###### Algumas ferramentas e tecnologias que eu trabalho e tenho interesse. | Tools and technologies that I have worked with and am interested in.
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width="40" height="40"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40"/>
+               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" width="40" height="40"/>
+               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" height="40" />
+                   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+                   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+          
+          
+          
+          
+          
+          
+          
